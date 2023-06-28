@@ -8,6 +8,8 @@ Este é meu segundo projeto desenvolvido durante o módulo de HTML/CSS do curso 
         <li>CSS</li>
     </ul>
 </div>
+
 ### Pré-visualização:
- <img src="midia.readme/seundo-1.png" alt="">
-  <img src="midia.readme/Segundo-2.png" alt="">
+
+<img src="midia.readme/seundo-1.png" alt="">
+<img src="midia.readme/Segundo-2.png" alt="">
